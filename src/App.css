@@ -1,0 +1,22 @@
+/* App.css */
+body.light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  body.dark {
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  /* Additional theme-specific styles */
+  .light .header {
+    background-color: #f0f0f0;
+  }
+  
+  .dark .header {
+    background-color: #444444;
+  }
+  
+  /* Modify other components as needed */
+  
